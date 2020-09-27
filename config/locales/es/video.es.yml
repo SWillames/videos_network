@@ -1,0 +1,13 @@
+es:
+  activerecord:
+    models:
+      video:
+        one: 'Video'
+        other: 'Videos'
+    attributes:
+      video:
+        title: 'Titulo'
+        url: 'url'
+        tag: 'etiqueta'
+        tag2: 'etiqueta2'
+        tag3: 'etiqueta3'

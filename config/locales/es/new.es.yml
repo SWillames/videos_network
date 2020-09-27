@@ -1,0 +1,16 @@
+es:
+  activerecord:
+    models:
+      news:
+        one: 'Noticia'
+        other: 'Noticias'
+    attributes:
+      news:
+        title: Titulo
+        tldr: Tl-Dr
+        body: Cuerpo de Texto
+        tag: Etiqueta
+        tag1: Etiqueta1
+        tag2: Etiqueta2
+        user: Autor
+ 

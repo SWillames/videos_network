@@ -1,0 +1,18 @@
+---
+  es:
+    text:
+      welcome: '¡Bienvenido!'
+      News:
+         title: 'Noticias'
+      Videos:
+         title: Videos
+    link:
+      login: 'Iniciar sesión'
+      signup: 'Registrarse'
+      update: 'Actualizar'
+      Forgot_your_password?: '¿Olvidaste tu contraseña?'
+      Didn't_receive_confirmation_instructions?:  '¿No recibió Confirmation_instructions?'
+      Didn't_receive_unlock_instructions?: '¿No recibiste instrucciones de desbloqueo?'
+      back: 'Volver'
+      edit: 'Editar'
+      singout: 'desconectar'

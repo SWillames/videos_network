@@ -1,0 +1,15 @@
+pt-BR:
+  activerecord:
+    models:
+      news:
+        one: 'Noticia'
+        other: 'Noticias'
+    attributes:
+      news:
+        title: 'Titulo'
+        tldr: 'Tl-Dr'
+        body: 'Texto'
+        tag: 'Tag'
+        tag1: 'Tag1'
+        tag2: 'Tag2'
+        user: 'Autor'

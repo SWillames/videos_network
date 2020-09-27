@@ -1,0 +1,19 @@
+---
+  pt-BR:
+    text:
+      welcome: Bem vindo!
+      news:
+         title: 'Noticias'
+      videos:
+         title: Videos
+    link:
+      login: 'Entrar'
+      signup: 'Cadastro'
+      update: 'Atualiza'
+      Forgot_your_password?: 'Esqueceu sua senha?'
+      Didn't_receive_confirmation_instructions?: 'Não recebeu Confirmation_instructions?'
+      Didn't_receive_unlock_instructions?: 'Não recebeu instruções de desbloqueio?'
+      back: 'Voltar'
+      edit: 'Editar'
+      profile: 'Minha Conta'
+      signout: 'Sair'
